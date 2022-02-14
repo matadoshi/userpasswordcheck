@@ -91,16 +91,11 @@ namespace UserPasswordCheck
                     }
                     else
                     {
-
-                    }
-                    {
-
+                        
                         Console.WriteLine("Sifreni Duzgun Daxil Edin");
                         value = Console.ReadLine();
-
-                        
                     }
-
+                    
                 }
 
              
